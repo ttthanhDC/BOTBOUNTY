@@ -1,0 +1,6 @@
+Tool Dev 
+- Visual studio 2015 
+- SQL Server 2012
+- git.exe (git bash)
+- TortoiseGit-2.6.0.0-64bit
+- .Net FW : >= 4.5
